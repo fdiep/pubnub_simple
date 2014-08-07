@@ -1,5 +1,4 @@
-# pubnub_simple
-
+# Simple PubNub / Node Integration
 Very simple PubNub integration using Node.js
 
 
